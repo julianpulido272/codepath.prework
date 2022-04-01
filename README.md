@@ -78,7 +78,7 @@ What is blocked scoped variables ES6 ? - GeeksforGeeks
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.youtube.com/watch?v=tOoZ6xulg2Q)
 
 
 ## License
