@@ -57,12 +57,14 @@ What is blocked scoped variables ES6 ? - GeeksforGeeks
   While coding in CSS, HTML, and JavaScript was new and exciting at first, I struggled to understand all the new terms and how each language interacts with one another. Additionally, each language has its own unique – though familiar – syntax which took time to learn. In HTML, it was odd to not have anything in between each event handler attribute inside the opening tags. I kept making the mistake of adding “+” in between each attribute since I am accustomed to doing so, like in Java. Though, with enough practice and tinkering, it became natural to write in this format. I tried my best to code based on the descriptions rather than looking at the pictures to conceptualize topics rather than just copying code. Throughout the project, I jotted down notes for each new term and compared them to other programming languages that I have more experience with. For example, after learning about Document Object Model I noticed it is identical to Java and how objects can be modified using their own methods. By far the topics that confused me the most were the difference between IDs and classes because I thought they were identical; I was occasionally using the wrong selector for some rules. Using wrong selectors didn’t explicitly state that there was an error in the code, but my web page looked incorrect. After re-reading and researching, IDs are unique to each element whereas classes can identify multiple elements. Since syntax and key terms are the fundamentals of any programming language it is crucial to understand through practice and studying. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+
 -Considering I just created a fairly simple website that simulates a Simon Game, I wonder how much code and experience does it take to create a website like Facebook or Reddit?  
 
 -How does a website interact with users in saving their progress or data? For example, how does a website save and store inputted information and display new information each time? 
 
-What are some common mistakes that beginner web developers make?
-To what extent does the style of a web page affect the user's behavior? For example, do certain features and/or styles maintain the user for a longer time or influence purchasing decisions? 
+-What are some common mistakes that beginner web developers make?
+
+-To what extent does the style of a web page affect the user's behavior? For example, do certain features and/or styles maintain the user for a longer time or influence purchasing decisions? 
 
 -Do web developers consider color psychology when developing a web page?
 
