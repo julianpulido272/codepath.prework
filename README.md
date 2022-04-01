@@ -70,6 +70,7 @@ What is blocked scoped variables ES6 ? - GeeksforGeeks
 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
   If I had more hours to work on this project I would want to implement a high score chart that records the users’ highest progress over time. A method to achieve this is by creating a variable titled “highScoreCounter” that records the longest sequential correct guesses by the user, which can be posted on the chart along with the date at which it was achieved. This can be extended by playing a special animation and audio whenever the user beats their previous high score. An exceptional yet long-term feature can include importing high scores to a global leaderboard that connects and compares high scores between the user and friends across the world. This requires extra features such as creating accounts to record high scores and the ability for the user to modify personal information. While creating the high score counter seems feasible, creating the interactive leaderboard is the real obstacle; I would be interested in learning which functions inside JavaScript can make that happen.
 
 
